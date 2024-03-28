@@ -60,6 +60,8 @@ void q_short(int low, int high) {
         if (i < j) {   //step 9
             swap(i, j);
         }
+    }
+}
 
 int main()
 {
